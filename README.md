@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2> Hey there! I'm Erys.</h2>
 
-![undraw_programming_re_kg9v (1)](https://user-images.githubusercontent.com/69915035/170827357-81ba3661-675a-4cc5-890f-c68bffb17c5e.svg)
+![logo](https://user-images.githubusercontent.com/69915035/170827569-5bc6a128-f44b-40e0-a2b1-5e510dede8d4.svg)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
