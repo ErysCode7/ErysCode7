@@ -37,7 +37,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-PHP-333333?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -63,9 +63,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/erys-mozo-280190230/"><img alt="LinkedIn" src="https://www.linkedin.com/in/erys-mozo-280190230/></a>
-<a href="[https://www.instagram.com/adityavs_/](https://www.instagram.com/_erysmozo/)"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mozoerys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/erys-mozo-280190230/"><img alt="LinkedIn" src="https://www.linkedin.com/in/erys-mozo-280190230"/></a>
+<a href="[https://www.instagram.com/adityavs_/](https://www.instagram.com/_erysmozo/)"></a>
+<a href="mailto:mozoerys@gmail.com"></a>
 </p>
 
 ⭐️ 
