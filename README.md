@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+
+<h2> Hey there! I'm Erys.</h2>
+
+![undraw_programming_re_kg9v (1)](https://user-images.githubusercontent.com/69915035/170827357-81ba3661-675a-4cc5-890f-c68bffb17c5e.svg)
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
