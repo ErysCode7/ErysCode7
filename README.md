@@ -13,15 +13,14 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology.
 - ✍️ &nbsp; Pursuing to be a Frontend Web Developer.
-- 🌱 I’m currently learning JavaScript -> React JavaScript
-- 📫 How to reach me: @mozoerys@gmail.com
+- 🌱 I’m currently learning JavaScript -> ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 📫 How to reach me: email me mozoerys@gmail.com
 
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-- Experience in languanges:
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
@@ -31,7 +30,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![React] im currently learning (https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
@@ -52,13 +51,5 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/erys-mozo-280190230/"><img alt="LinkedIn" src="https://www.linkedin.com/in/erys-mozo-280190230"/></a>
-<a href="[https://www.instagram.com/adityavs_/](https://www.instagram.com/_erysmozo/)"></a>
-<a href="mailto:mozoerys@gmail.com"></a>
-</p>
 
 ⭐️ 
