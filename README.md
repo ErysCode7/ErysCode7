@@ -30,8 +30,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  currently learning
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
