@@ -1,9 +1,7 @@
-### Hi there 👋
 
 
 
-
-<h2> Hey there! I'm Erys.</h2>
+<h2> Hey there! I'm Erys.👋</h2>
 
 
 
