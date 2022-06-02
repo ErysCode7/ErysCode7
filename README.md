@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology.
-- ✍️ &nbsp; Pursuing to be a Frontend Web Developer.
+- ✍️ &nbsp; Pursuing to be a Frontend Developer.
 - 🌱 I’m currently learning JavaScript -> ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 📫 How to reach me: email me mozoerys@gmail.com
 
