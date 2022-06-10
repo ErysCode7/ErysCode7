@@ -50,5 +50,12 @@
 
 <br/>
 
+## 📫 How to reach me:
+
+Feel free to connect with me for any project, question, etc. on:
+- Facebook - [Erys Mozo](https://web.facebook.com/erys.mozo/)
+- Instagram - [_erysmozo](https://www.instagram.com/_erysmozo/)
+- Email - [_mozoerys@gmail.com](mozoerys@gmail.com)
+- LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
 
 ⭐️ 
