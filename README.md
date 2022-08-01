@@ -29,7 +29,7 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-<!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
@@ -39,6 +39,7 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![NPM](https://camo.githubusercontent.com/d30fadfc0127ad074d958393bd304656b7b050d68276f6922f4b60ca52c1f325/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d4343333533343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d)
 
 
 <br/>
