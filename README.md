@@ -30,6 +30,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJS](https://img.shields.io/badge/NEXT JS -white?style=for-the-badge&logo=nextjs&logoColor=black)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
