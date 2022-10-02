@@ -1,16 +1,13 @@
+# Erys Mozo 🦁
 
 
-
-<h2> Hey there! I'm Erys.👋</h2>
-
-
+<h1> Hey there! I'm Erys.👋</h1>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology.
-- ✍️ &nbsp; Pursuing to be a Frontend Developer.
 - 🌱 &nbsp; I’m currently learning ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 📫 &nbsp; How to reach me: email me mozoerys@gmail.com
 
