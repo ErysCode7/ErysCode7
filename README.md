@@ -3,6 +3,12 @@
 
 <h1> Hey there! I'm Erys.👋</h1>
 
+<p>
+
+    <img src="./jujustsu_homies.png"/>
+
+</p>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
