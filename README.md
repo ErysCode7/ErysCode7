@@ -4,9 +4,7 @@
 <h1> Hey there! I'm Erys.👋</h1>
 
 <p>
-
-    <img src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
-
+   <img height="135" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 </p>
 
 
