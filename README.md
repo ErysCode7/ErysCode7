@@ -1,4 +1,4 @@
-# Erys Mozo 🦁
+# Erys 🦁
 
 
 <h1> Hey there! I'm Erys.👋</h1>
@@ -15,7 +15,7 @@
 - 🎓 &nbsp; I'm Information Technology student.
 - 🌱 &nbsp; I’m currently learning <a href="https://nextjs.org/">Next.js</a>
 
-
+* * * 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -46,13 +46,16 @@
 
 <br/>
 
+* * * 
+
 <a href="https://github.com/ErysCode7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eryscode7&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryscode7&theme=buefy&layout=compact" />
- 
 </a>
 
 <br/>
+
+* * * 
 
 ## 📫 How to reach me:
 
