@@ -7,13 +7,13 @@
    <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 </p>
 
+* * * 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Technology.
-- 🌱 &nbsp; I’m currently learning ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 📫 &nbsp; How to reach me: email me mozoerys@gmail.com
+- 🎓 &nbsp; I'm Information Technology student.
+- 🌱 &nbsp; I’m currently learning <a href="https://nextjs.org/">Next.js</a>
 
 
 
