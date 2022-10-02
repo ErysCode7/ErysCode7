@@ -5,7 +5,7 @@
 
 <p>
 
-    <img src="./jujustsu_homies.png"/>
+    <img src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 
 </p>
 
