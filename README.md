@@ -12,7 +12,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I'm Information Technology student.
 - 🌱 &nbsp; I’m currently learning <a href="https://nextjs.org/">Next.js</a>
 
 * * * 
