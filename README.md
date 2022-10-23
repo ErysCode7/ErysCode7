@@ -30,9 +30,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
