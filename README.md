@@ -16,6 +16,8 @@
 
 * * * 
 
+![](https://komarev.com/ghpvc/?username=eryscode7)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
