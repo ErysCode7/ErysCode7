@@ -31,7 +31,7 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
