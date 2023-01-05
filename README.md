@@ -13,7 +13,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
-- 🌱 &nbsp; I’m currently learning <a href="https://nextjs.org/">Next.js</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>
+- 🌱 &nbsp; I’m currently learning best coding principles and stack such as <a href="https://nextjs.org/">Next.js</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>
 
 * * * 
 
@@ -52,7 +52,7 @@
 
 <!-- <br/> -->
 
-* * * 
+<!-- * * *  -->
 
 <!-- <a href="https://github.com/ErysCode7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryscode7&theme=buefy&layout=compact" />
