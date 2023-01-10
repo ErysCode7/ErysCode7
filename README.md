@@ -69,5 +69,6 @@ Feel free to connect with me for any project, question, etc. on:
 - Instagram - [_erysmozo](https://www.instagram.com/_erysmozo/)
 - Email - mozoerys@gmail.com
 - LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
+- Gitlab - [Erys Mozo](https://gitlab.com/ErysCode7)
 
  
