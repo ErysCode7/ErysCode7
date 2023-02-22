@@ -14,6 +14,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🌱 &nbsp; I’m currently learning best coding principles and stack such as <a href="https://nextjs.org/">Next.js</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>
+- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
 * * * 
 
