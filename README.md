@@ -1,6 +1,3 @@
-# Erys 🦁
-
-
 <h1> Hey there! I'm Erys.👋</h1>
 
 <p>
