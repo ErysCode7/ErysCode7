@@ -54,10 +54,6 @@ export default App;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
   
-## 🎧 Spotify Playing
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
-
 ## 📫 How to reach me:
 
 Feel free to connect with me for any project, question, etc. on:
