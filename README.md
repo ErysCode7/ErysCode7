@@ -61,9 +61,7 @@
 
 Feel free to connect with me for any project, question, etc. on:
 - Facebook - [Erys Mozo](https://web.facebook.com/erys.mozo/)
-- Instagram - [_erysmozo](https://www.instagram.com/_erysmozo/)
-- Email - mozoerys@gmail.com
+- Instagram - [thebleakmidwinter__](https://www.instagram.com/thebleakmidwinter__/)
 - LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
-- Gitlab - [Erys Mozo](https://gitlab.com/ErysCode7)
 
  
