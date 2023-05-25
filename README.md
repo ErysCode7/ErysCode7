@@ -1,4 +1,6 @@
 <h1> Hey there! I'm Erys.👋</h1>
+<p>I specialize in building responsive user interfaces that provide great user experiences. With over less than a year of experience in JavaScript development.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End-Engineer;Front+End+Developer:JavaScript+Enthusiast)](https://git.io/typing-svg)
 
 <p>
    <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
@@ -8,9 +10,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Working as a Front End Engineer.
+- 🌱 &nbsp; I’m currently learning new skills and technologies.
 - 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
-- 🌱 &nbsp; I’m currently learning best coding principles and stack such as <a href="https://nextjs.org/">Next.js</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>
 - 👨‍💻 &nbsp; Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
 * * * 
