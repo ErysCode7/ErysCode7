@@ -17,7 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Current Tech Stack</h2>
 
 - 💻 &nbsp;
 <!--   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
