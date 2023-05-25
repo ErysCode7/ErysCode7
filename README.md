@@ -5,6 +5,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End+Engineer;Front+End+Developer;JavaScript+Enthusiast)](https://git.io/typing-svg)
 
+```react
+
+const user = {
+   name: 'Erys Mozo',
+}
+
+```
+
 <p>
    <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 </p>
@@ -39,6 +47,10 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+  
+## 🎧 Spotify Playing
+
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 ## 📫 How to reach me:
 
