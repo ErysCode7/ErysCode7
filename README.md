@@ -6,10 +6,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End+Engineer;Front+End+Developer;JavaScript+Enthusiast)](https://git.io/typing-svg)
 
 ```typescript
+import type { NextPage } from 'next'
 
-const user = {
-   name: 'Erys Mozo',
+const App: NextPage = () => {
+   return (
+      <h1>Hello, There!</h1>
+   )
 }
+
+export default App;
 
 ```
 
