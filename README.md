@@ -7,16 +7,12 @@
    <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 </p>
 
-* * * 
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 💼 &nbsp; Working as a Front End Engineer.
 - 🌱 &nbsp; I’m currently learning new skills and technologies.
 - 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
 - 👨‍💻 &nbsp; Life Hack: Learn new tech 🔥 and share what you have learned 🎉
-
-* * * 
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
 
@@ -43,19 +39,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-
-
-<!-- <br/> -->
-
-<!-- * * *  -->
-
-<!-- <a href="https://github.com/ErysCode7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryscode7&theme=buefy&layout=compact" />
-</a> -->
-
-<!-- <br/> -->
-
-* * * 
 
 ## 📫 How to reach me:
 
