@@ -1,6 +1,8 @@
 <h1> Hey there! I'm Erys.👋</h1>
 <p>I specialize in building responsive user interfaces that provide great user experiences. With over less than a year of experience in JavaScript development.</p>
 
+![](https://komarev.com/ghpvc/?username=eryscode7)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End+Engineer;Front+End+Developer;JavaScript+Enthusiast)](https://git.io/typing-svg)
 
 <p>
@@ -13,8 +15,6 @@
 - 🌱 &nbsp; I’m currently learning new skills and technologies.
 - 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
 - 👨‍💻 &nbsp; Life Hack: Learn new tech 🔥 and share what you have learned 🎉
-
-![](https://komarev.com/ghpvc/?username=eryscode7)
 
 <h2> 🛠 &nbsp;Current Tech Stack</h2>
 
