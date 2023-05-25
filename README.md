@@ -5,10 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End+Engineer;Front+End+Developer;JavaScript+Enthusiast)](https://git.io/typing-svg)
 
-<p>
-   <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
-</p>
-
 ```typescript
 import type { NextPage } from 'next'
 
@@ -19,8 +15,13 @@ const App: NextPage = () => {
 }
 
 export default App;
-
 ```
+
+<p>
+   <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
+</p>
+
+
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
