@@ -25,7 +25,7 @@ export default App;
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 💼 &nbsp; Working as a Front End Engineer.
+- 💼 &nbsp; Working as a Front End Developer.
 - 🌱 &nbsp; I’m currently learning new skills and technologies.
 - 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
 - 👨‍💻 &nbsp; Life Hack: Learn new tech 🔥 and share what you have learned 🎉
