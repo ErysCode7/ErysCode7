@@ -14,7 +14,7 @@ const App: NextPage = () => {
    )
 }
 
-export default App;
+export default App
 ```
 
 <p>
