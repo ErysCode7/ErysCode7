@@ -42,14 +42,15 @@ export default App
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   
 - 📚 &nbsp;
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
-  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcn/ui&logoColor=0FAE5C)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcn/ui)
   ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-333333?style=flat&logo=mantine)
   ![MUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
-  ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakra-ui&logoColor=319795)
-  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE)
+  ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakra-ui)
+  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
+  
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
