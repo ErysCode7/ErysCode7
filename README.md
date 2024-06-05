@@ -41,16 +41,15 @@ export default App
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   
-- 📚 &nbsp; Libraries:
-  ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=material-ui)
+- 📚 &nbsp;
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcn/ui&logoColor=0FAE5C)
+  ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-333333?style=flat&logo=mantine)
+  ![MUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
   ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakra-ui&logoColor=319795)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
-  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcn-ui&logoColor=0FAE5C)
-  ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-333333?style=flat&logo=mantine&logoColor=0E8684)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
