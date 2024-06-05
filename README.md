@@ -1,5 +1,5 @@
 <h1> Hey there! I'm Erys.👋</h1>
-<p>I specialize in building responsive user interfaces that provide great user experiences. With over less than a year of experience in JavaScript development.</p>
+<p>Frontend Developer with 1.5 years of experience in the software development industry, adept at collaborating with teams to achieve project goals. Proficient in Next.js, React.js, TypeScript, and Tailwind CSS. Additionally, I possess foundational knowledge of backend development and databases and am actively enhancing my skills in these areas.</p>
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
 
