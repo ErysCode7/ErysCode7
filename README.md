@@ -51,8 +51,9 @@ export default App
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-  ![JIRA](https://img.shields.io/badge/-jira-333333?style=flat&logo=jira)
+  ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
+  ![JIRA](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  ![FIGMA](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
   
 ## 📫 How to reach me:
 
