@@ -25,10 +25,10 @@ export default App
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 💼 &nbsp; Working as a Front End Developer.
-- 🌱 &nbsp; I’m currently learning new skills and technologies.
+- 💼 &nbsp; Working as a Frontend Developer.
+- 🌱 &nbsp; Dedicated to continuous learning and mastering emerging technologies.
 - 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
-- 👨‍💻 &nbsp; Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+- 👨‍💻 &nbsp; Personal Philosophy: Embrace lifelong learning, 🔥 adopt new technologies eagerly, and contribute knowledge generously. 🎉
 
 <h2> 🛠 &nbsp;Current Tech Stack</h2>
 
