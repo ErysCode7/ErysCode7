@@ -69,7 +69,7 @@ export default App
 ## 📫 How to reach me:
 
 Feel free to connect with me for any project, question, etc. on:
-- Facebook - [Erys Mozo](https://web.facebook.com/erys.mozo/)
-- LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
+- [Facebook](https://web.facebook.com/erys.mozo/)
+- [LinkedIn](https://www.linkedin.com/in/erys-mozo-280190230/)
 
  
