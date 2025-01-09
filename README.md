@@ -1,5 +1,5 @@
 <h1> Hey there! I'm Erys.👋</h1>
-<p>Frontend Developer with nearly 2 years of experience in the software development industry. Proficient in JavaScript frameworks and libraries for building web applications, specializing in technologies such as Next.js, React.js, TypeScript, and Tailwind CSS. Proven track record of delivering high-quality solutions and collaborating effectively with cross-functional teams. Committed to ongoing learning and skill development.</p>
+<p>Frontend Developer with 2 years of experience in the software development industry. Proficient in JavaScript frameworks and libraries for building web applications, specializing in technologies such as Next.js, React.js, TypeScript, and Tailwind CSS. Proven track record of delivering high-quality solutions and collaborating effectively with cross-functional teams. Committed to ongoing learning and professional growth.</p>
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
 
