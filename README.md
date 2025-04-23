@@ -58,7 +58,7 @@ export default App
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
   ![JIRA](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![FIGMA](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
