@@ -43,22 +43,21 @@ export default App
   ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
   ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcn/ui)
   ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-333333?style=flat&logo=mantine)
-  ![MUI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
   ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakra-ui)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
-  
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
-
-- 🔧 &nbsp;
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
   ![JIRA](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
@@ -67,7 +66,5 @@ export default App
 ## 📫 How to reach me:
 
 Feel free to connect with me for any project, question, etc. on:
-- [Facebook](https://web.facebook.com/erys.mozo/)
-- [LinkedIn](https://www.linkedin.com/in/erys-mozo-280190230/)
+- [LinkedIn](https://www.linkedin.com/in/erys-mozo)
 
- 
