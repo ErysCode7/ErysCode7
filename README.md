@@ -25,10 +25,10 @@ export default App
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 💼 &nbsp; Working as a Frontend Developer.
-- 🌱 &nbsp; Dedicated to continuous learning and mastering emerging technologies.
-- 🧠 &nbsp; Intense curious mind. Continuously learning, seeking patterns and connecting dots.
-- 👨‍💻 &nbsp; Personal Philosophy: Learn new tech 🔥 and share what you have learned 🎉
+- 💼 &nbsp; Frontend Developer with 3 years of experience building **scalable, maintainable, and user-centric web applications**.  
+- 🌱 &nbsp; Dedicated to **continuous learning**, exploring backend and mobile development to contribute to **end-to-end solutions**.  
+- 🧠 &nbsp; Systematic and curious mind, thinking beyond code: **component scalability, architecture, and user experience**.  
+- 🎯 &nbsp; Passionate about **performance, accessibility, clean architecture**, and delivering real value to users and businesses.  
 
 ## 📫 How to reach me:
 
