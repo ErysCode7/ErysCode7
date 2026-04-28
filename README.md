@@ -30,6 +30,11 @@ export default App
 - 🧠 &nbsp; Systematic and curious mind, thinking beyond code: **component scalability, architecture, and user experience**.  
 - 🎯 &nbsp; Passionate about **performance, accessibility, clean architecture**, and delivering real value to users and businesses.  
 
+## 🏢 Company Work
+
+- 🔗 [Certchain GitHub Organization](https://github.com/emcertchain)  
+  Contributed to production-level applications including AI tools, workforce platforms, and enterprise solutions.
+
 ## 📫 How to reach me:
 
 Feel free to connect with me for any project, question, etc. on:
