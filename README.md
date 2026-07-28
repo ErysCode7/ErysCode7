@@ -21,19 +21,12 @@ export default App
    <img height="200" src="https://github.com/ErysCode7/ErysCode7/blob/master/jujutsu_homies.png"/>
 </p>
 
-
-
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 💼 &nbsp; Frontend Developer with 3 years of experience building **scalable, maintainable, and user-centric web applications**.  
 - 🌱 &nbsp; Dedicated to **continuous learning**, exploring backend and mobile development to contribute to **end-to-end solutions**.  
 - 🧠 &nbsp; Systematic and curious mind, thinking beyond code: **component scalability, architecture, and user experience**.  
 - 🎯 &nbsp; Passionate about **performance, accessibility, clean architecture**, and delivering real value to users and businesses.  
-
-## 🏢 Company Work
-
-- 🔗 [Certchain GitHub Organization](https://github.com/emcertchain)  
-  Contributed to production-level applications including AI tools, workforce platforms, and enterprise solutions.
 
 ## 📫 How to reach me:
 
