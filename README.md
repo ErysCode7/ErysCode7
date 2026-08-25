@@ -1,6 +1,7 @@
 <h1>Hey there! I'm Erys 👋</h1>
 <p>
-Frontend Developer with <strong>3 years of experience</strong> building <strong>scalable, maintainable, and user-centric web applications</strong>. I specialize in <strong>React.js, Next.js, and TypeScript</strong>, integrating <strong>AI-powered features, chat applications, payment systems, and web widgets</strong> into production projects. Proven track record of delivering high-quality solutions and collaborating effectively with cross-functional teams. Committed to continuous learning and contributing to end-to-end product solutions.
+Product engineer building the interface layer of AI products —
+streaming, real-time, and the parts that break. React · Next.js · TypeScript
 </p>
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
