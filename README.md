@@ -1,7 +1,6 @@
 <h1>Hey there! I'm Erys 👋</h1>
 <p>
-Product engineer building the interface layer of AI products —
-streaming, real-time, and the parts that break. React · Next.js · TypeScript
+Frontend Engineer with 4 years of experience building scalable, maintainable, and user-focused web applications. Specialized in React.js, Next.js, and TypeScript, delivering performant and accessible interfaces in production environments.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
