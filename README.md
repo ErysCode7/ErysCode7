@@ -6,7 +6,7 @@ Frontend Engineer with <strong>4 years of professional experience</strong> build
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Front+End+Engineer;Front+End+Developer;JavaScript+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Frontend+Engineer;Frontend+Developer;React+%26+TypeScript+Developer)](https://git.io/typing-svg)
 
 ```typescript
 const App = () => {
