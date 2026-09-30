@@ -1,6 +1,7 @@
 <h1>Hey there! I'm Erys 👋</h1>
+
 <p>
-Frontend Engineer with 4 years of experience building scalable, maintainable, and user-focused web applications. Specialized in React.js, Next.js, and TypeScript, delivering performant and accessible interfaces in production environments.
+Frontend Engineer with <strong>4 years of professional experience</strong> building scalable, production-ready web applications. Specialized in <strong>React, Next.js, and TypeScript</strong>, with a focus on frontend architecture, performance, and delivering polished user experiences.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=eryscode7)
@@ -23,13 +24,13 @@ export default App
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 💼 &nbsp; Frontend Developer with 3 years of experience building **scalable, maintainable, and user-centric web applications**.  
-- 🌱 &nbsp; Dedicated to **continuous learning**, exploring backend and mobile development to contribute to **end-to-end solutions**.  
-- 🧠 &nbsp; Systematic and curious mind, thinking beyond code: **component scalability, architecture, and user experience**.  
-- 🎯 &nbsp; Passionate about **performance, accessibility, clean architecture**, and delivering real value to users and businesses.  
+- 💼 &nbsp; Frontend Developer with **4 years of professional experience** building scalable, production-ready web applications.
+- ⚛️ &nbsp; Specialized in **React, Next.js, and TypeScript**, with a strong focus on modern frontend architecture and reusable component systems.
+- 🧠 &nbsp; Passionate about **performance, accessibility, clean architecture, and developer experience**.
+- 🚀 &nbsp; Product-minded engineer who cares about building software that is **useful, intuitive, and impactful**.
+- 🌱 &nbsp; Currently expanding into **AI, backend, and full-stack development** to build end-to-end products.
 
 ## 📫 How to reach me:
 
 Feel free to connect with me for any project, question, etc. on:
 - [LinkedIn](https://www.linkedin.com/in/erys-mozo)
-
